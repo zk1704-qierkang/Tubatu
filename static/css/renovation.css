@@ -1,0 +1,68 @@
+.content {
+	margin-top: 50upx;
+	text-align: center;
+	height: 400upx;
+}
+
+.title {
+	font-size: 36upx;
+}
+image{
+	width: 100upx;
+	height: 100upx;
+	margin-top: 20upx;
+}
+.dingzhi{
+	width: 80upx;
+	height: 80upx;
+}
+.tv{
+	display: inline-block;
+	margin-left: 80upx;
+}
+.tu{
+	margin-left: -80upx;
+}
+.wz{
+	font-size: 30upx;
+	margin-top: 10upx;
+}
+.tj{
+	margin-top: -120upx;
+}
+.yi{
+	width: 92%;
+	border-radius:7px;
+	height: 340upx;
+	background-color: #F1F1F1;
+	margin-left: 30upx;
+}
+.zi{
+	margin-left: -60%;
+}
+.zix{
+	margin-left: -60%;
+	font-size: 30upx;
+	color: #999999;
+}
+.g{
+	margin-left: 10upx;
+	margin-right: 10upx;
+}
+.img image{
+	height: 200upx;
+	width: 210upx;
+	margin-left: 15upx;
+	border-radius:7px;
+}
+.img{
+	margin-left: -10upx;
+}
+.er{
+	width: 92%;
+	border-radius:7px;
+	height: 340upx;
+	background-color: #F1F1F1;
+	margin-left: 30upx;
+	margin-top: 20upx;
+}

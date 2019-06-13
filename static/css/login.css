@@ -1,0 +1,30 @@
+.image image{
+	width: 300upx;
+	height: 300upx;
+}
+.content {
+	margin-top: 50upx;
+	text-align: center;
+	height: 400upx;
+}
+
+.title {
+	font-size: 36upx;
+}
+input{
+	margin-top: 30upx;
+	margin-bottom: 10upx;
+}
+.a{
+	border-bottom:seagreen solid 0.9upx;
+	width: 80%;
+	margin-left: 75upx;
+}
+.aa{
+	border-bottom:seagreen solid 0.9upx;
+	width: 80%;
+	margin-left: 75upx;
+}
+.d{
+	margin-top: 30upx;
+}

@@ -1,0 +1,186 @@
+@font-face {
+		font-family: texticons;
+		font-weight: normal;
+		font-style: normal;
+		src: url('https://at.alicdn.com/t/font_984210_5cs13ndgqsn.ttf') format('truetype');
+	}
+
+	page,
+	view {
+		display: flex;
+	}
+
+	page {
+		background-color: #f8f8f8;
+	}
+
+	.center {
+		flex-direction: column;
+	}
+
+	.logo {
+		width: 750upx;
+		height: 240upx;
+		padding: 20upx;
+		box-sizing: border-box;
+		background-color: #FFFFFF;
+		flex-direction: row;
+		align-items: center;
+	}
+
+	.logo-hover {
+		opacity: 0.8;
+	}
+
+	.logo-img {
+		width: 150upx;
+		height: 150upx;
+		border-radius: 150upx;
+	}
+
+	.logo-title {
+		height: 150upx;
+		flex: 1;
+		align-items: center;
+		justify-content: space-between;
+		flex-direction: row;
+		margin-left: 20upx;
+	}
+
+	.uer-name {
+		height: 60upx;
+		line-height: 60upx;
+		font-size: 38upx;
+		color: #FFFFFF;
+	}
+
+	.go-login.navigat-arrow {
+		font-size: 38upx;
+		color: #FFFFFF;
+	}
+
+	.login-title {
+		height: 150upx;
+		align-items: self-start;
+		justify-content: center;
+		flex-direction: column;
+		margin-left: 20upx;
+	}
+
+	.center-list {
+		background-color: #FFFFFF;
+		margin-top: 20upx;
+		width: 750upx;
+		flex-direction: column;
+		
+	}
+
+	.center-list-item {
+		height: 90upx;
+		width: 750upx;
+		box-sizing: border-box;
+		flex-direction: row;
+		padding: 0upx 20upx;
+	}
+
+	.border-bottom {
+		border-bottom-width: 1upx;
+		border-color: #c8c7cc;
+		border-bottom-style: solid;
+	}
+
+	.list-icon {
+		width: 40upx;
+		height: 90upx;
+		line-height: 90upx;
+		font-size: 34upx;
+		color: #4cd964;
+		text-align: center;
+		font-family: texticons;
+		margin-right: 20upx;
+	}
+
+	.list-text {
+		height: 90upx;
+		line-height: 90upx;
+		font-size: 34upx;
+		color: #555;
+		flex: 1;
+		text-align: left;
+	}
+
+	.navigat-arrow {
+		height: 90upx;
+		width: 40upx;
+		line-height: 90upx;
+		font-size: 34upx;
+		color: #555;
+		text-align: right;
+		font-family: texticons;
+	}
+.my{
+	margin-left: -75%;
+	margin-top: 20upx;
+}
+.but{
+	margin-top: 40upx;
+}
+.but button{
+	background: #4CD964;
+	color: #FFFFFF;
+}
+.bx{
+	font-size: 30upx;
+	color: #555555;
+	margin-left: 140upx;
+	height: 70upx;
+	margin-top: 20upx;
+}
+.te{
+	margin-left: 40upx;
+	margin-right: 30upx;
+}
+.d1 image{
+	width: 80upx;
+	height: 80upx;
+	
+}
+.d1{
+	display: inline-block;
+	margin-left: 40upx;
+	font-size: 30upx;
+	text-align: center;
+	margin-left: 80upx;
+}
+
+.ds{
+	margin-left: -20upx;
+}
+.dx{
+	
+}
+.sb{
+	margin-left: 20upx;
+}
+.my2{
+	margin-left: -70%;
+	margin-top: 20upx;
+}
+.dx2{
+	margin-left: 20upx;
+}
+.ds2{
+	margin-left: 20upx;
+}
+.d2{
+	display: inline-block;
+	margin-left: 40upx;
+	font-size: 30upx;
+	text-align: center;
+	margin-left: 40upx;
+}
+.d2 image{
+	width: 80upx;
+	height: 80upx;
+	
+}

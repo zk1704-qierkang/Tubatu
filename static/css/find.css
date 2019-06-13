@@ -1,0 +1,87 @@
+.content {
+	margin-top: 50upx;
+	text-align: center;
+	height: 400upx;
+}
+
+.title {
+	font-size: 36upx;
+}
+.tou{
+	margin-left: -20upx;
+	font-size: 45upx;
+}
+.cha{
+	margin-left: 180upx;
+	font-size: 30upx;
+	margin-top: -60upx;
+	color: #CCCCCC;
+}
+.tou view{
+	display: inline-block;
+}
+.shipin{
+	margin-left: -220upx;
+	margin-top: -60upx;
+}
+.biao{
+	font-size: 45upx;
+	margin-left: -260upx;
+}
+.t5{
+	font-size: 30upx;
+	color: #C7C6CD;
+	margin-top: 5upx;
+	margin-left: 65upx;
+}
+.geng{
+	font-size: 30upx;
+	color: #C7C6CD;
+	margin-left: 1000upx;
+	margin-top: -80upx;
+}
+.shipin2{
+	margin-left: 3upx;
+	margin-top: 60upx;
+}
+.shipin2 image{
+	width: 95%;
+	height: 400upx;
+}
+.sx{
+	margin-top: 10upx;
+}
+.xx{
+	font-size: 30upx;
+	color: #B7B7B7;
+}
+.shipin3 image{
+	width: 300upx;
+	height: 180upx;
+	margin-left: -400upx;
+	
+}
+.shipin3{
+	margin-top: 30upx;
+}
+.wen{
+	font-size: 35upx;
+	margin-left: 300upx;
+	margin-top: -130upx;
+}
+.shipin4 image{
+	width: 300upx;
+	height: 180upx;
+	margin-left: -400upx;
+}
+.shipin5 image{
+	width: 300upx;
+	height: 180upx;
+	margin-left: -400upx;
+}
+.shipin4{
+	margin-top: 50upx;
+}
+.shipin5{
+	margin-top: 50upx;
+}

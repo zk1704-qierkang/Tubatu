@@ -1,0 +1,52 @@
+.content {
+	margin-top: 50upx;
+	text-align: center;
+	height: 400upx;
+}
+
+.title {
+	font-size: 36upx;
+}
+.d1 image{
+	height: 100upx;
+	width: 100upx;
+}
+.d1{
+	display: inline-block;
+	margin-left: 50upx;
+}
+.daohang{
+	margin-left: -20upx;
+	margin-top: -20upx;
+	font-size: 30upx;
+}
+.youshang image{
+	width: 400upx;
+	height: 140upx;      
+}
+.youxia image{
+	width: 400upx;
+	height: 140upx;    
+}
+.zuo image{
+	width: 380upx;
+	height: 300upx;
+}
+.youshang{
+	width: 20%;
+	height: 50%;
+	float:left; 
+	margin-left: 10upx;
+}
+.youxia{
+	width: 20%;
+	height: 10%;
+	float:left;  
+	margin-top: 160upx;
+	margin-left: -150upx;
+}
+.zuo{
+	width: 50%;
+	height: 100%;
+	float:left;    
+}

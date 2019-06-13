@@ -1,0 +1,52 @@
+.content {
+	margin-top: 50upx;
+	text-align: center;
+	height: 400upx;
+}
+
+.title {
+	font-size: 36upx;
+}
+.jindu image{
+	width: 80upx;
+	height: 80upx;
+}
+.jindu{
+	width: 100%;
+	border-bottom: #F1F1F1 solid 0.5upx;
+	height: 100upx;
+	
+}
+.jindu2{
+	margin-left: -85%;
+}
+.te{
+	margin-top: -80upx;
+	margin-left: 250upx;
+	font-size: 30upx;
+}
+.jindu2 .te view{
+	margin-left: 65upx;
+	font-size: 25upx;
+	color: #B7B7B7;
+}
+.hdxx{
+	width: 100%;
+	border-bottom: #F1F1F1 solid 0.5upx;
+	height: 100upx;
+	margin-top: 20upx;
+}
+.hdxx image{
+	width: 80upx;
+	height: 80upx;
+}
+.xtxx{
+	width: 100%;
+	border-bottom: #F1F1F1 solid 0.5upx;
+	height: 100upx;
+	margin-top: 20upx;
+}
+.xtxx image{
+	width: 80upx;
+	height: 80upx;
+}
